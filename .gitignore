@@ -1,0 +1,5 @@
+machine
+*.pyc
+__pycache__
+staticfiles
+db.sqlite3
